@@ -1,4 +1,4 @@
 mysql:
-  url: dev-http://localhost:3306/db100
+  url: dev-http://localhost:3306/db150
 pliu:
-  message: hello pliu,100
+  message: hello pliu,150
