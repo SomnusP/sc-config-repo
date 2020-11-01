@@ -1,0 +1,4 @@
+mysql:
+  url: dev-http://localhost:3306/db100
+pliu:
+  message: hello pliu,100
