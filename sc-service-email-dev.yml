@@ -1,3 +1,5 @@
 mail:
   username: hellopeng816@163.com
   pwd: ZDVWCARPVUURJKER
+  subject: 来自spring-cloud-demo的验证码
+  textPrefix: 您的验证码是
